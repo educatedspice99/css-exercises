@@ -1,0 +1,17 @@
+.red-paragraph {
+    background-color: rgb(253, 139, 152);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    ;
+}
+.unique {
+    font-size: 24px;
+}
+#number-2 {
+    color: blue;
+    font-size: 36px;
+}
+#number-4 {
+    background-color: rgb(135, 255, 135);
+    font-weight: 900;
+    font-size: 24px;
+}
